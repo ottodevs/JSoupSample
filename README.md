@@ -7,4 +7,5 @@ Selector-syntax: ".summary h3 a"
 Output:
 
 Java03: 15 results found
+
 Droid26: empty result
